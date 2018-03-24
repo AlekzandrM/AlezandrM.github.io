@@ -1,0 +1,16 @@
+.header:after{
+	content: "";
+	clear: both;
+	display: block;
+}
+.row{
+	float: left;
+	margin-top: 15px;
+}
+.header{
+	background: rgb(210,219,236);
+	width: 1450px;
+	box-sizing: border-box;
+	text-align: center;
+	margin: 0 auto;
+}
